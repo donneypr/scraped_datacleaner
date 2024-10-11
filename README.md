@@ -1,0 +1,1 @@
+make sure you have a have .csv file in the same directory to allow you to format your code. change the variable names in the program to your suiting, i have it as resolved_tickets for my other project
